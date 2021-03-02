@@ -36,9 +36,6 @@ import com.pi4j.util.Console;
 
 /**
  * <p>This example fully describes the base usage of Pi4J by providing extensive comments in each step.</p>
- *
- * @author Frank Delporte (<a href="https://www.webtechie.be">https://www.webtechie.be</a>)
- * @version $Id: $Id
  */
 public class MinimalExample {
 
